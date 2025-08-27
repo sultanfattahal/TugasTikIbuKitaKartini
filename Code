@@ -1,0 +1,195 @@
+#define buzzer 12
+void setup() {
+  pinMode (buzzer, OUTPUT);
+}
+void loop() {
+  // Ibu Kita Kartini
+  tone(buzzer, 262);
+  delay (1000); // DO
+  tone(buzzer, 294);
+  delay (300); // RE
+  tone(buzzer, 330);
+  delay (500); // MI
+  tone(buzzer, 349);
+  delay (600); // FA
+  tone(buzzer, 395);
+  delay (800); // SOL
+  tone(buzzer, 330);
+  delay (300); // MI
+  tone(buzzer, 262);
+  delay (500); // DO 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Putri Sejati
+  tone(buzzer, 440);
+  delay (900); // LA
+  tone(buzzer, 523);
+  delay (300); // DO 1
+  tone(buzzer, 494);
+  delay (700); // SI
+  tone(buzzer, 440);
+  delay (400); // LA
+  tone(buzzer, 395);
+  delay (2000); // SOL 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Putri Indonesia
+  tone(buzzer, 349);
+  delay (900); // FA
+  tone(buzzer, 440);
+  delay (400); // LA
+  tone(buzzer, 395);
+  delay (500); // SOL
+  tone(buzzer, 349);
+  delay (700); // FA
+  tone(buzzer, 330);
+  delay (1100); // MI
+  tone(buzzer, 262);
+  delay (1100); // DO 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Harum Namanya
+  tone(buzzer, 294);
+  delay (1000); // RE
+  tone(buzzer, 349);
+  delay (300); // FA
+  tone(buzzer, 330);
+  delay (500); // MI
+  tone(buzzer, 294);
+  delay (600); // RE
+  tone(buzzer, 262);
+  delay (1400); // DO 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Ibu Kita Kartini
+  tone(buzzer, 262);
+  delay (1000); // DO
+  tone(buzzer, 294);
+  delay (300); // RE
+  tone(buzzer, 330);
+  delay (500); // MI
+  tone(buzzer, 349);
+  delay (600); // FA
+  tone(buzzer, 395);
+  delay (800); // SOL
+  tone(buzzer, 330);
+  delay (300); // MI
+  tone(buzzer, 262);
+  delay (500); // DO 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Pendekar Bangsa
+  tone(buzzer, 440);
+  delay (900); // LA
+  tone(buzzer, 523);
+  delay (300); // DO 1
+  tone(buzzer, 494);
+  delay (700); // SI
+  tone(buzzer, 440);
+  delay (400); // LA
+  tone(buzzer, 395);
+  delay (2000); // SOL 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Pendekar Kaumnya
+  tone(buzzer, 349);
+  delay (900); // FA
+  tone(buzzer, 440);
+  delay (400); // LA
+  tone(buzzer, 395);
+  delay (500); // SOL
+  tone(buzzer, 349);
+  delay (700); // FA
+  tone(buzzer, 330);
+  delay (1100); // MI
+  tone(buzzer, 262);
+  delay (1100); // DO 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Untuk Merdeka
+  tone(buzzer, 294);
+  delay (1000); // RE
+  tone(buzzer, 349);
+  delay (300); // FA
+  tone(buzzer, 330);
+  delay (500); // MI
+  tone(buzzer, 294);
+  delay (600); // RE
+  tone(buzzer, 262);
+  delay (1400); // DO 
+  noTone(buzzer);
+  delay (300); // Jeda
+  // Wahai Ibu Kita Kartini
+  tone(buzzer, 349);
+  delay (900); // FA
+  tone(buzzer, 330);
+  delay (300); // MI
+  tone(buzzer, 349);
+  delay (600); // FA
+  tone(buzzer, 440);
+  delay (600); // LA
+  tone(buzzer, 395);
+  delay (300); // SOL
+  tone(buzzer, 440);
+  delay (300); // LA
+  tone(buzzer, 395);
+  delay (300); // SOL
+  tone(buzzer, 330);
+  delay (200); // MI
+  tone(buzzer, 262);
+  delay (500); // DO 
+  noTone(buzzer);
+  delay (100); // Jeda
+  // Putri Yang Mulia
+  tone(buzzer, 330);
+  delay (600); // MI
+  tone(buzzer, 294);
+  delay (600); // RE
+  tone(buzzer, 330);
+  delay (600); // MI
+  tone(buzzer, 349);
+  delay (600); // FA
+  tone(buzzer, 395);
+  delay (600); // SOL
+  tone(buzzer, 330);
+  delay (1000); // MI
+  noTone(buzzer);
+  delay (500); // Jeda
+  // Sungguh Besar Cita-Citanya
+  tone(buzzer, 349);
+  delay (900); // FA
+  tone(buzzer, 330);
+  delay (300); // MI
+  tone(buzzer, 349);
+  delay (600); // FA
+  tone(buzzer, 440);
+  delay (600); // LA
+  tone(buzzer, 395);
+  delay (300); // SOL
+  tone(buzzer, 440);
+  delay (300); // LA
+  tone(buzzer, 395);
+  delay (300); // SOL
+  tone(buzzer, 330);
+  delay (200); // MI
+  tone(buzzer, 262);
+  delay (500); // DO 
+  noTone(buzzer);
+  delay (100); // Jeda
+  // Bagi Indonesia
+  tone(buzzer, 330);
+  delay (600); // MI
+  tone(buzzer, 294);
+  delay (600); // RE
+  tone(buzzer, 349);
+  delay (600); // FA
+  tone(buzzer, 262);
+  delay (600); // DO
+  tone(buzzer, 294);
+  delay (600); // RE
+  tone(buzzer, 262);
+  delay (1000); // DO
+  noTone(buzzer);
+  delay (500); // Jeda
+}
+  
